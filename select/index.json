@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Driver's High",
+  "base_artist": "L'Arc～en～Ciel",
+  "createdAt": "2025-12-01T14:07:23.123244Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Driver's High",
+      "artist": "Mary's Blood",
+      "has_synced": true,
+      "path": "select/01_Driver's_High_Mary's_Blood.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Driver's High",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/02_Driver's_High_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Driver's High",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/03_Driver's_High_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Driver's High",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/04_Driver's_High_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Driver’s High",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": true,
+      "path": "select/05_Driver’s_High_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Driver's High",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/06_Driver's_High_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Driver's High (GTO Great Teacher Onizuka)",
+      "artist": "Muray",
+      "has_synced": false,
+      "path": "select/07_Driver's_High_(GTO_Great_Teacher_Onizuka)_Muray.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Driver's High (Remastered 2022)",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/08_Driver's_High_(Remastered_2022)_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Driver's High - Remastered 2022",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/09_Driver's_High_-_Remastered_2022_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Driver’s High",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/10_Driver’s_High_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Driver's High",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/11_Driver's_High_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Driver’s High",
+      "artist": "Mary's Blood",
+      "has_synced": true,
+      "path": "select/12_Driver’s_High_Mary's_Blood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "drivers high",
+      "artist": "larcenciel",
+      "has_synced": true,
+      "path": "select/13_drivers_high_larcenciel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Driver's High",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/14_Driver's_High_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Driver’s High",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/15_Driver’s_High_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Driver's High",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/16_Driver's_High_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Driver’s High",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/17_Driver’s_High_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Driver's High",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_Driver's_High_L'Arc〜en〜Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Driver's High",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": false,
+      "path": "select/pl_02_Driver's_High_L'Arc〜en〜Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Driver's High",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": false,
+      "path": "select/pl_03_Driver's_High_L'Arc〜en〜Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Driver's High",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": false,
+      "path": "select/pl_04_Driver's_High_L'Arc〜en〜Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Driver's High",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": false,
+      "path": "select/pl_05_Driver's_High_L'Arc〜en〜Ciel.txt"
+    }
+  ]
+}
